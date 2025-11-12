@@ -1,3 +1,5 @@
+// 3. Display n Terms of Natural Numbers and Their Sum
+
 #include<iostream>
 using namespace std;
 int main(){
